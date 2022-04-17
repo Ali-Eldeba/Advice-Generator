@@ -59,6 +59,7 @@ button {
   -moz-transition: 0.3s;
   -ms-transition: 0.3s;
   -o-transition: 0.3s;
+  outline: none;
 }
 button:hover {
   box-shadow: var(--Neon-Green) 0px 10px 36px 0px,
