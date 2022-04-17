@@ -28,11 +28,6 @@ div {
   padding: 50px 40px;
   border-radius: 20px;
 }
-@media (min-width: 1440px) {
-  div {
-    width: 30%;
-  }
-}
 @media (max-width: 991px) {
   div {
     width: 70%;
