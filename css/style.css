@@ -18,7 +18,7 @@ body {
   justify-content: center;
   height: 100vh;
 }
-div {
+main {
   width: 40%;
   position: relative;
   display: flex;
@@ -29,12 +29,12 @@ div {
   border-radius: 20px;
 }
 @media (max-width: 991px) {
-  div {
+  main {
     width: 70%;
   }
 }
 @media (max-width: 768px) {
-  div {
+  main {
     width: 100%;
   }
 }
@@ -86,14 +86,4 @@ span {
   position: relative;
   top: -10px;
   width: 100%;
-}
-hr {
-  border: none;
-  border-bottom: 5px solid black;
-  width: 100%;
-  border-radius: 20px;
-  -webkit-border-radius: 20px;
-  -moz-border-radius: 20px;
-  -ms-border-radius: 20px;
-  -o-border-radius: 20px;
 }
