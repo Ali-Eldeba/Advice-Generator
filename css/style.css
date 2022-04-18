@@ -69,14 +69,15 @@ q {
   font-size: 28px;
 }
 q,
-p {
+h1 {
   text-align: center;
   color: white;
   margin-bottom: 35px;
 }
-p {
+h1 {
   color: var(--Neon-Green);
   text-transform: uppercase;
+  font-size: 10px;
 }
 span {
   letter-spacing: 5px;
